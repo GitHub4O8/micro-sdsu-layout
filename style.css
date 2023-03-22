@@ -46,6 +46,8 @@ nav a {
 .product-categories div {
     display: inline-block;
     height: 100px;
+    padding: 65px;
+
 }
 
 
